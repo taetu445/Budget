@@ -22,7 +22,7 @@ _Live demo of the project will be available soon_
 - **Clone the repository:** Clone this repository to your local machine using the command:
 
 ```
-git clone git clone https://github.com/taetu445/Budget.git
+git clone https://github.com/taetu445/Budget.git
 ```
 
 - **Install dependencies:** Navigate to the project directory and install the required dependencies by running:
